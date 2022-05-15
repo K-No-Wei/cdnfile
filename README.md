@@ -1,0 +1,2 @@
+# cdnfile
+jsDeliver Cdn
